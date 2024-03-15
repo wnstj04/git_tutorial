@@ -1,3 +1,7 @@
 Hello world!
 I'm Junseo!
+<<<<<<< HEAD
 SNU
+=======
+SNU!
+>>>>>>> my_branch
